@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python for BackEnd<br>I'm looking to collaborate with other developers<br>I'm looking for team working
+I'm currently learning Python for BackEnd<br>I'd like to collaborate with other Devs and make a team<br>WH40k Fan #NightLordsChapter
 
 
 ## 🌐 Socials:
